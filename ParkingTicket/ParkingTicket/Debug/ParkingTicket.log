@@ -1,0 +1,5 @@
+﻿  ParkingTicket.cpp
+C:\Users\miner\Desktop\School Stuff\Sophmore Fall\CPSC 246\Projects\ParkingTicket\ParkingTicket\ParkingTicket.cpp(23,31): error C3646: 'carParkingMeter': unknown override specifier
+C:\Users\miner\Desktop\School Stuff\Sophmore Fall\CPSC 246\Projects\ParkingTicket\ParkingTicket\ParkingTicket.cpp(23,31): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\miner\Desktop\School Stuff\Sophmore Fall\CPSC 246\Projects\ParkingTicket\ParkingTicket\ParkingTicket.cpp(49,4): error C2065: 'carParkingMeter': undeclared identifier
+C:\Users\miner\Desktop\School Stuff\Sophmore Fall\CPSC 246\Projects\ParkingTicket\ParkingTicket\ParkingTicket.cpp(67,4): error C2065: 'carParkingMeter': undeclared identifier
